@@ -52,9 +52,8 @@ The report aims to answer key business questions such as:
 
 ## 🔗 Live Report 
 
-If published to Power BI Service:
-
-[🔗 View the live report](https://app.powerbi.com/links/a3eD4KMmH-?ctid=e76098d4-4488-4bf5-9ca7-f469aec5b03b&pbi_source=linkShare&bookmarkGuid=375927da-f968-4b84-9316-366171285dd2)
+Power BI Service:
+🔗 [View the live report](https://app.powerbi.com/links/a3eD4KMmH-?ctid=e76098d4-4488-4bf5-9ca7-f469aec5b03b&pbi_source=linkShare&bookmarkGuid=375927da-f968-4b84-9316-366171285dd2)
 
 ## 📌 How to Use
 
