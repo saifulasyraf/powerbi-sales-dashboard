@@ -44,7 +44,7 @@ The report aims to answer key business questions such as:
 
 | Overview Page                             | Product & Region Page                          |
 |-------------------------------------------|------------------------------------------------|
-| ![Overview](Overview%20&%20Trend.PNG)     | ![Product](Products%20&%20Region%20Page.PNG)               |
+| ![Overview](Overview%20&%20Trend.PNG)     | ![Product](Products%20&%20Region.PNG)               |
 
 | Customer & Discount Page                  | Cover Page                                     |
 |-------------------------------------------|------------------------------------------------|
