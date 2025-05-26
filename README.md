@@ -44,11 +44,11 @@ The report aims to answer key business questions such as:
 
 | Overview Page                             | Product & Region Page                          |
 |-------------------------------------------|------------------------------------------------|
-| ![Overview](Power Bi Sales and Revenue/Overview%20&%20Trend.PNG)     | ![Product](Power Bi Sales and Revenue/Product%20&%20Region-Page.PNG)               |
+| ![Overview](Overview%20&%20Trend.PNG)     | ![Product](Product%20&%20Region-Page.PNG)               |
 
 | Customer & Discount Page                  | Cover Page                                     |
 |-------------------------------------------|------------------------------------------------|
-| ![Discount](Power Bi Sales and Revenue/Customer%20&%20Discount.PNG)      | ![Cover](Power Bi Sales and Revenue/Cover%20Page.PNG)                 |
+| ![Discount](Customer%20&%20Discount.PNG)      | ![Cover](Cover%20Page.PNG)                 |
 
 ## 🔗 Live Report 
 
