@@ -15,22 +15,23 @@ The report aims to answer key business questions such as:
 1. **Cover Page**  
    Clear project title and overview
 
-2. **Sales Overview**  
+2. **Sales Overview & Trend**  
    - Key metrics (Sales, Profit, Quantity)
    - Monthly sales trends
-   - Top-selling products and subcategories
-   - Sales by region and segment
+   - Sales/Profit relation
+   - Profit Margin by Monthly
 
 3. **Product & Region Analysis**  
-   - Profit by category and region
+   - Top selling item
+   - Top profitable item
    - Sales vs Profit per sub-category
    - Region and state-level performance
 
 4. **Customer & Discount Insights**  
    - Most discounted items
    - Items with biggest losses
-   - Top customer by profit
-   - Average discount given
+   - Customer with most discount
+   - Sales and Profit by Segment
 
 ## 🧰 Tools Used
 
@@ -43,14 +44,19 @@ The report aims to answer key business questions such as:
 
 | Overview Page                             | Product & Region Page                          |
 |-------------------------------------------|------------------------------------------------|
-| ![Overview](Power Bi Sales and Revenue/Overview-&-Trend.PNG)     | ![Product](Power Bi Sales and Revenue/Product-&-Region-Page.PNG)               |
+| ![Overview](Power Bi Sales and Revenue/Overview%20&%20Trend.PNG)     | ![Product](Power Bi Sales and Revenue/Product%20&%20Region-Page.PNG)               |
 
 | Customer & Discount Page                  | Cover Page                                     |
 |-------------------------------------------|------------------------------------------------|
-| ![Discount](Power Bi Sales and Revenue/Customer-&-Discount.PNG)      | ![Cover](Power Bi Sales and Revenue/Cover-Page.PNG)                 |
+| ![Discount](Power Bi Sales and Revenue/Customer%20&%20Discount.PNG)      | ![Cover](Power Bi Sales and Revenue/Cover%20Page.PNG)                 |
 
+## 🔗 Live Report 
 
-## 🔗wto Use
+If published to Power BI Service:
+
+[🔗 View the live report](https://app.powerbi.com/links/a3eD4KMmH-?ctid=e76098d4-4488-4bf5-9ca7-f469aec5b03b&pbi_source=linkShare&bookmarkGuid=375927da-f968-4b84-9316-366171285dd2)
+
+## 📌 How to Use
 
 1. Clone this repo or download the `.pbix` file
 2. Open in Power BI Desktop
